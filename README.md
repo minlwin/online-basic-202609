@@ -3,9 +3,9 @@ Repository for Java Basic Online Class
 
 ## Modules
 
-- Module 1 : Language Fundamentals
-- Module 2 : Object Oriented Programming
-- Module 3 : Essential Java API
+- [Module 1 : Language Fundamentals](module-1/README.md)
+- [Module 2 : Object Oriented Programming](module-2/README.md)
+- [Module 3 : Essential Java API](module-2/README.md)
 
 ## Others
 
