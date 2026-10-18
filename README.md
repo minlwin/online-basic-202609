@@ -12,6 +12,6 @@ Repository for Java Basic Online Class
 - How to Run a program on a computer
 - Environment Variables
 - JDK Installation
-- Using GitHub Repositories
+- [Using GitHub Repositories](others/using-github.md)
 - Using IntelliJ IDE
 - JUnit Test
